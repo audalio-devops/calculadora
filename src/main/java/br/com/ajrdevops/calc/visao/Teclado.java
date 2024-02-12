@@ -1,7 +1,6 @@
 package br.com.ajrdevops.calc.visao;
 
 import br.com.ajrdevops.calc.modelo.Memoria;
-import br.com.ajrdevops.calc.modelo.MemoriaObservador;
 
 import javax.swing.*;
 import java.awt.*;
@@ -26,9 +25,10 @@ public class Teclado extends JPanel implements ActionListener {
         c.weighty = 1;
 
         //Linha 1
-        c.gridwidth = 3;
+        c.gridwidth = 2;
         adicionarBotao("AC", COR_CINZA_ESCURO, c, 0, 0);
         c.gridwidth = 1;
+        adicionarBotao("±", COR_LARANJA, c, 2, 0);
         adicionarBotao("/", COR_LARANJA, c, 3, 0);
 
         //Linha 2

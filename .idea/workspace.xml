@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9a0f33db-4273-48d0-9341-4ab8a45e4534" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/ajrdevops/calc/modelo/Memoria.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/ajrdevops/calc/modelo/MemoriaObservador.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/ajrdevops/calc/visao/Display.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/ajrdevops/calc/visao/Display.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/ajrdevops/calc/modelo/Memoria.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/ajrdevops/calc/modelo/Memoria.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/br/com/ajrdevops/calc/visao/Teclado.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/ajrdevops/calc/visao/Teclado.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
