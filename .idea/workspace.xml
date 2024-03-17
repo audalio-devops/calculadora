@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9a0f33db-4273-48d0-9341-4ab8a45e4534" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/ajrdevops/calc/modelo/Memoria.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/ajrdevops/calc/modelo/Memoria.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/ajrdevops/calc/visao/Teclado.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/ajrdevops/calc/visao/Teclado.java" afterDir="false" />
-    </list>
+    <list default="true" id="9a0f33db-4273-48d0-9341-4ab8a45e4534" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
