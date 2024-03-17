@@ -2,7 +2,7 @@
 
 Projeto desenvolvido em Java, durante o curso [Java 2020 COMPLETO: Do Zero ao Profissional + Projetos](https://www.udemy.com/course/fundamentos-de-programacao-com-java) ministrado pelo professor [Leonardo Moura Leitao](https://www.udemy.com/user/leonardomouraleitao/)
 
-<p>Baseado na Calculadora existe no MAC, possui a finalidade de aprender importantes conceitos e funcionalidades da linguagem Java.</p>
+<p>Baseado na Calculadora existente no MAC, possui a finalidade de aprender importantes conceitos e funcionalidades da linguagem Java.</p>
 
 <h2>🔖 Tópicos estudados</h2>
 
